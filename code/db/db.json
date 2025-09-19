@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Enakenna Yaarum Illaye",
+      "singer": "Anirudh Ravichander",
+      "genre": "Emotional",
+      "imgUrl": "https://share.google/images/WmDYbozkSjGWK0ngr",
+      "songUrl": "Songs/Enakenna Yaarum Illaye.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Enna-Solla-Pogiraieya",
+      "singer": "Shankar mahadevan",
+      "genre": "Romantic",
+      "imgUrl": "https://share.google/5DSbeNTfaA30xzLK7",
+      "songUrl": "Songs/Enna-Solla-Pogirai.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Kanimaa",
+      "singer": "Santhosh narayanan",
+      "genre": "Romantic",
+      "imgUrl": "https://share.google/images/aopPZYf8FRLZhjAoa",
+      "songUrl": "Songs/Kanimaa.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Monica",
+      "singer": "Sublahshini",
+      "genre": "Vibe song",
+      "imgUrl": "https://share.google/images/Uzo4MPcCO0myvx0IX",
+      "songUrl": "Songs/Monica.mp3"
+    },
+    {
+      "id": "5",
+      "title": "Payanam",
+      "singer": "Ashwath",
+      "genre": "Romantic",
+      "imgUrl": "https://share.google/images/yqLUG7c15RoZoDrAw",
+      "songUrl": "Songs/Payanam-MassTamilan.so.mp3"
+    },
+    {
+      "id": "6",
+      "title": "Udhungada Sangu",
+      "singer": "Anirudh Ravichander",
+      "genre": "Emotional",
+      "imgUrl": "https://share.google/images/2ZEF4cbds1OfIZdam",
+      "songUrl": "Songs/Udhungada Sangu - Anirudh Ravichander - MassTamilan.mp3"
+    },
+    {
+      "id": "7",
+      "title": "Whistle Podu",
+      "singer": "Vijay",
+      "genre": "Vibe song",
+      "imgUrl": "https://share.google/images/vADGTDRRzo2ls0Zxm",
+      "songUrl": "Songs/Whistle Podu Theatrical.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "id": "4fe3",
+      "itemId": "2",
+      "title": "Enna-Solla-Pogiraieya",
+      "imgUrl": "https://share.google/5DSbeNTfaA30xzLK7",
+      "genre": "Romantic",
+      "songUrl": "Songs/Enna-Solla-Pogirai.mp3",
+      "singer": "Shankar mahadevan"
+    },
+    {
+      "id": "0c57",
+      "itemId": "4",
+      "title": "Monica",
+      "imgUrl": "https://share.google/images/Uzo4MPcCO0myvx0IX",
+      "genre": "Vibe song",
+      "songUrl": "Songs/Monica.mp3",
+      "singer": "Sublahshini"
+    }
+  ],
+  "playlist": [
+    {
+      "id": "54b5",
+      "itemId": "1",
+      "title": "Enakenna Yaarum Illaye",
+      "imgUrl": "https://share.google/images/WmDYbozkSjGWK0ngr",
+      "genre": "Emotional",
+      "songUrl": "Songs/Enakenna Yaarum Illaye.mp3",
+      "singer": "Anirudh Ravichander"
+    },
+    {
+      "id": "e7ff",
+      "itemId": "2",
+      "title": "Enna-Solla-Pogiraieya",
+      "imgUrl": "https://share.google/5DSbeNTfaA30xzLK7",
+      "genre": "Romantic",
+      "songUrl": "Songs/Enna-Solla-Pogirai.mp3",
+      "singer": "Shankar mahadevan"
+    },
+    {
+      "id": "ea10",
+      "itemId": "3",
+      "title": "Kanimaa",
+      "imgUrl": "https://share.google/images/aopPZYf8FRLZhjAoa",
+      "genre": "Romantic",
+      "songUrl": "Songs/Kanimaa.mp3",
+      "singer": "Santhosh narayanan"
+    }
+  ]
+}
